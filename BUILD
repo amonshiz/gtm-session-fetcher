@@ -1,3 +1,5 @@
+package(default_visibility = ["//visibility:public"])
+
 objc_library(
     name = "GTMSessionFetcher",
     module_name = "GTMSessionFetcher",
